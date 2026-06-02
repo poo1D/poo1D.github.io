@@ -1,0 +1,673 @@
+{
+  "generated_at": "2026-06-03T01:21:46",
+  "public_note": "Sanitized project summaries only. Raw Obsidian diary content is not published.",
+  "projects": [
+    "Advanced Math",
+    "Matrix",
+    "Statistics",
+    "IELTS Reading",
+    "IELTS Listening",
+    "IELTS Writing",
+    "IELTS Speaking",
+    "Politics",
+    "GPA / Coursework",
+    "Course Design",
+    "Information System"
+  ],
+  "summary": {
+    "Advanced Math": {
+      "active_days": 8,
+      "total_score": 18,
+      "latest": [
+        {
+          "date": "2026-04-24",
+          "project": "Advanced Math",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Wed: 高数：多元函数微分学（第13讲）- 思维导图",
+          "next": "",
+          "source": "计划/W06 2026-04-20.md"
+        },
+        {
+          "date": "2026-04-24",
+          "project": "Advanced Math",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Thu: 高数：多元函数微分学（第13讲）- 课后习题",
+          "next": "",
+          "source": "计划/W06 2026-04-20.md"
+        },
+        {
+          "date": "2026-04-21",
+          "project": "Advanced Math",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Tue: 高数：多元函数微分学（第13讲）- 概念",
+          "next": "",
+          "source": "计划/W06 2026-04-20.md"
+        },
+        {
+          "date": "2026-04-18",
+          "project": "Advanced Math",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Mon: 高数：多元函数微分学 - 概念",
+          "next": "",
+          "source": "计划/W05 2026-04-13.md"
+        },
+        {
+          "date": "2026-04-11",
+          "project": "Advanced Math",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Wed: 高数：积分计算 - 基础题 / 课后习题",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        }
+      ]
+    },
+    "Matrix": {
+      "active_days": 4,
+      "total_score": 10,
+      "latest": [
+        {
+          "date": "2026-04-14",
+          "project": "Matrix",
+          "score": 2,
+          "type": "completed-task",
+          "message": "线代 -向量组-概念",
+          "next": "",
+          "source": "日记/2026-04-13.md"
+        },
+        {
+          "date": "2026-04-03",
+          "project": "Matrix",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Thu: 矩阵：真题",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-04-02",
+          "project": "Matrix",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Tue: 矩阵：思维导图",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-04-02",
+          "project": "Matrix",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Wed: 矩阵：课后习题",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-04-01",
+          "project": "Matrix",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Mon: 矩阵：概念",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        }
+      ]
+    },
+    "Statistics": {
+      "active_days": 0,
+      "total_score": 0,
+      "latest": []
+    },
+    "IELTS Reading": {
+      "active_days": 10,
+      "total_score": 22,
+      "latest": [
+        {
+          "date": "2026-04-10",
+          "project": "IELTS Reading",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Mon: 📚 Reading 精读 1 段，留下同义替换 + 长难句拆解",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-03-31",
+          "project": "IELTS Reading",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Mon: 📚 Reading 精读 1 篇 / 1 段，整理同义替换和长难句",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-03-27",
+          "project": "IELTS Reading",
+          "score": 2,
+          "type": "completed-task",
+          "message": "📚 精读1段（找生词+分析结构）",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-25",
+          "project": "IELTS Reading",
+          "score": 2,
+          "type": "completed-task",
+          "message": "📚 精读1段（找生词+分析结构）",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-23",
+          "project": "IELTS Reading",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Reading精读",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        }
+      ]
+    },
+    "IELTS Listening": {
+      "active_days": 8,
+      "total_score": 18,
+      "latest": [
+        {
+          "date": "2026-04-10",
+          "project": "IELTS Listening",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Tue: 👂 Listening 1 Section，留下错因 + 答案句定位",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-02",
+          "project": "IELTS Listening",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Tue: 👂 Listening 1 Section，精听 + 复盘错因",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-03-27",
+          "project": "IELTS Listening",
+          "score": 2,
+          "type": "completed-task",
+          "message": "👂 听力1Section",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-22",
+          "project": "IELTS Listening",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Listening 1Section",
+          "next": "",
+          "source": "计划/W01 2026-03-16.md"
+        },
+        {
+          "date": "2026-03-21",
+          "project": "IELTS Listening",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Listening 1Section",
+          "next": "",
+          "source": "计划/W01 2026-03-16.md"
+        }
+      ]
+    },
+    "IELTS Writing": {
+      "active_days": 7,
+      "total_score": 14,
+      "latest": [
+        {
+          "date": "2026-04-10",
+          "project": "IELTS Writing",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Thu: ✍️ Writing 只做 1 个动作：提纲 / 开头段 / 主体段，留下段落骨架",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-02",
+          "project": "IELTS Writing",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Thu: ✍️ Writing 只做 1 个动作：列提纲 / 开头段 / 主体段",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-03-27",
+          "project": "IELTS Writing",
+          "score": 2,
+          "type": "completed-task",
+          "message": "✍️ 写作：列大纲OR写开头段",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-26",
+          "project": "IELTS Writing",
+          "score": 2,
+          "type": "completed-task",
+          "message": "✍️ 写作：列大纲OR写开头段",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-21",
+          "project": "IELTS Writing",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Writing Task2",
+          "next": "",
+          "source": "计划/W01 2026-03-16.md"
+        }
+      ]
+    },
+    "IELTS Speaking": {
+      "active_days": 9,
+      "total_score": 18,
+      "latest": [
+        {
+          "date": "2026-04-10",
+          "project": "IELTS Speaking",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Wed: 💬 Speaking 1 个 Part，录音 + 重答 1 次，留一句更自然表达",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-06",
+          "project": "IELTS Speaking",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Wed: 💬 Speaking 只练 1 个 Part，录音 + 重答 1 次",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-03-27",
+          "project": "IELTS Speaking",
+          "score": 2,
+          "type": "completed-task",
+          "message": "💬 口语Part1录音（2mins）",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-23",
+          "project": "IELTS Speaking",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Speaking对练",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-22",
+          "project": "IELTS Speaking",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Speaking对练",
+          "next": "",
+          "source": "计划/W01 2026-03-16.md"
+        }
+      ]
+    },
+    "Politics": {
+      "active_days": 7,
+      "total_score": 18,
+      "latest": [
+        {
+          "date": "2026-04-10",
+          "project": "Politics",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Mon: 通读0.5h / 1 个小节",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-10",
+          "project": "Politics",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Thu: 通读0.5h / 1 个小节",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-03-31",
+          "project": "Politics",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Mon: 通读0.5h",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-03-23",
+          "project": "Politics",
+          "score": 2,
+          "type": "completed-task",
+          "message": "通读0.5h",
+          "next": "",
+          "source": "计划/W02 2026-03-23.md"
+        },
+        {
+          "date": "2026-03-22",
+          "project": "Politics",
+          "score": 2,
+          "type": "completed-task",
+          "message": "通读0.5h",
+          "next": "",
+          "source": "计划/W01 2026-03-16.md"
+        }
+      ]
+    },
+    "GPA / Coursework": {
+      "active_days": 13,
+      "total_score": 30,
+      "latest": [
+        {
+          "date": "2026-04-10",
+          "project": "GPA / Coursework",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Tue: 课内作业：补全本周所有课程的 DDL / 交付物 / 完成标准",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-10",
+          "project": "GPA / Coursework",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Wed: 课程作业：推进 1 个最临近 DDL 的具体交付物",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-10",
+          "project": "GPA / Coursework",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Fri: 课内作业：把 1 个未完成项推到“可提交状态”",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-06",
+          "project": "GPA / Coursework",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Sat: 补交 / 收尾：把未完成作业补到可提交状态",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        },
+        {
+          "date": "2026-04-02",
+          "project": "GPA / Coursework",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Thu: 作业：课程名 / 作业名 / 截止时间 / 完成标准",
+          "next": "",
+          "source": "计划/W03 2026-03-30.md"
+        }
+      ]
+    },
+    "Course Design": {
+      "active_days": 5,
+      "total_score": 14,
+      "latest": [
+        {
+          "date": "2026-04-12",
+          "project": "Course Design",
+          "score": 2,
+          "type": "completed-task",
+          "message": "ppt 检查",
+          "next": "",
+          "source": "日记/2026-04-12.md"
+        },
+        {
+          "date": "2026-04-12",
+          "project": "Course Design",
+          "score": 2,
+          "type": "completed-task",
+          "message": "pdf 迭代",
+          "next": "",
+          "source": "日记/2026-04-12.md"
+        },
+        {
+          "date": "2026-04-11",
+          "project": "Course Design",
+          "score": 2,
+          "type": "completed-task",
+          "message": "录视频",
+          "next": "",
+          "source": "日记/2026-04-11.md"
+        },
+        {
+          "date": "2026-04-10",
+          "project": "Course Design",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Mon: 课程设计：确定本周迭代目标 + 下一次提交标准",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        },
+        {
+          "date": "2026-04-10",
+          "project": "Course Design",
+          "score": 2,
+          "type": "completed-task",
+          "message": "Thu: 课程设计：完成 1 轮实质迭代 / 修改",
+          "next": "",
+          "source": "计划/W04 2026-04-06.md"
+        }
+      ]
+    },
+    "Information System": {
+      "active_days": 0,
+      "total_score": 0,
+      "latest": []
+    }
+  },
+  "recent_events": [
+    {
+      "date": "2026-04-24",
+      "project": "Advanced Math",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Wed: 高数：多元函数微分学（第13讲）- 思维导图",
+      "next": "",
+      "source": "计划/W06 2026-04-20.md"
+    },
+    {
+      "date": "2026-04-24",
+      "project": "Advanced Math",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Thu: 高数：多元函数微分学（第13讲）- 课后习题",
+      "next": "",
+      "source": "计划/W06 2026-04-20.md"
+    },
+    {
+      "date": "2026-04-21",
+      "project": "Advanced Math",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Tue: 高数：多元函数微分学（第13讲）- 概念",
+      "next": "",
+      "source": "计划/W06 2026-04-20.md"
+    },
+    {
+      "date": "2026-04-18",
+      "project": "Advanced Math",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Mon: 高数：多元函数微分学 - 概念",
+      "next": "",
+      "source": "计划/W05 2026-04-13.md"
+    },
+    {
+      "date": "2026-04-14",
+      "project": "Matrix",
+      "score": 2,
+      "type": "completed-task",
+      "message": "线代 -向量组-概念",
+      "next": "",
+      "source": "日记/2026-04-13.md"
+    },
+    {
+      "date": "2026-04-12",
+      "project": "Course Design",
+      "score": 2,
+      "type": "completed-task",
+      "message": "ppt 检查",
+      "next": "",
+      "source": "日记/2026-04-12.md"
+    },
+    {
+      "date": "2026-04-12",
+      "project": "Course Design",
+      "score": 2,
+      "type": "completed-task",
+      "message": "pdf 迭代",
+      "next": "",
+      "source": "日记/2026-04-12.md"
+    },
+    {
+      "date": "2026-04-11",
+      "project": "Course Design",
+      "score": 2,
+      "type": "completed-task",
+      "message": "录视频",
+      "next": "",
+      "source": "日记/2026-04-11.md"
+    },
+    {
+      "date": "2026-04-11",
+      "project": "Advanced Math",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Wed: 高数：积分计算 - 基础题 / 课后习题",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "Advanced Math",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Tue: 高数：积分计算 - 概念与公式整理",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "IELTS Reading",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Mon: 📚 Reading 精读 1 段，留下同义替换 + 长难句拆解",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "IELTS Listening",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Tue: 👂 Listening 1 Section，留下错因 + 答案句定位",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "IELTS Speaking",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Wed: 💬 Speaking 1 个 Part，录音 + 重答 1 次，留一句更自然表达",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "IELTS Writing",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Thu: ✍️ Writing 只做 1 个动作：提纲 / 开头段 / 主体段，留下段落骨架",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "Course Design",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Mon: 课程设计：确定本周迭代目标 + 下一次提交标准",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "GPA / Coursework",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Tue: 课内作业：补全本周所有课程的 DDL / 交付物 / 完成标准",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "GPA / Coursework",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Wed: 课程作业：推进 1 个最临近 DDL 的具体交付物",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "Course Design",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Thu: 课程设计：完成 1 轮实质迭代 / 修改",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "GPA / Coursework",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Fri: 课内作业：把 1 个未完成项推到“可提交状态”",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    },
+    {
+      "date": "2026-04-10",
+      "project": "Politics",
+      "score": 2,
+      "type": "completed-task",
+      "message": "Mon: 通读0.5h / 1 个小节",
+      "next": "",
+      "source": "计划/W04 2026-04-06.md"
+    }
+  ],
+  "type_counts": {
+    "completed-task": 81
+  }
+}
